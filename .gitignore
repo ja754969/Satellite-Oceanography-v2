@@ -1,0 +1,25 @@
+
+# MATLAB
+*.asv
+
+
+# Compressed file
+*.bz2
+
+# folder
+WH/L2/test_14_image/
+
+# Compressed file
+*.zip
+
+
+# image
+*.tif
+
+# Document
+*.doc
+
+# find ./* -size +100M | cat >> .gitignore
+# Large file : More than 50 MB (in the shell : "find * -size +50M | cat >> .gitignore")
+Agulhas_front/MODIS_data_20071230_12_40/A2007364124000.L2_LAC_OC.nc
+
